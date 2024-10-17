@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214402586585",
+    "project_id": "geo-chat-f40f8",
+    "storage_bucket": "geo-chat-f40f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214402586585:android:6acfd8ef20f40cebf5abc8",
+        "android_client_info": {
+          "package_name": "in.geo.geo_c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgGpMbWpP8K-XezKB7Bfxz5DLb8V9T4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214402586585:android:2d9ac1c458ea62c1f5abc8",
+        "android_client_info": {
+          "package_name": "in.geo.geo_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgGpMbWpP8K-XezKB7Bfxz5DLb8V9T4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
